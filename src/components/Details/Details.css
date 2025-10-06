@@ -1,0 +1,15 @@
+.details {
+  color: black;
+  padding: 0.25rem;
+}
+
+button {
+  padding: 0.25rem 0.5rem;
+  display: block;
+  width: 100%;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: lightgray;
+}
